@@ -1,20 +1,50 @@
-## 📄 Publications
+# Publications Journal (* Corresponding Author)
+F. Yasmin, Y. Xue, M. Hasan*, Ghulam Muhammad, “EPSO-Net: A Multi-Objective Evolutionary Neural Architecture Search with PSO-Guided Mutation Fusion for Explainable Brain Tumor Segmentation”, Information Fusion, 104119, 2026. DOI: 10.1016/j.inffus.2025.104119. [IF: 15.5; SCI 1区 Top; SJR: Q1]
 
-1. M. Hasan, H. Liu, V. Lakkamraju, F. Yasmin, S. Maurya and A. Sinha, **"Transfer Learning-Driven Deep Neural Network for Pneumonia Detection from Chest X-Rays,"** *2025 2nd International Conference on Artificial Intelligence for Innovations in Healthcare Industries (ICAIIHI)*, Raipur, India, 2025, pp. 1–6. DOI: https://doi.org/10.1109/ICAIIHI67124.2025.11403737
-2. Farhana Yasmin, Yu Xue, Mahade Hasan, Ghulam Muhammad, **"EPSO-Net: A Multi-Objective Evolutionary Neural Architecture Search with PSO-Guided Mutation Fusion for   Explainable Brain Tumor Segmentation,"** *Information Fusion*, 2025. DOI: https://doi.org/10.1016/j.inffus.2025.104119
-3. Hasan, M., Yasmin, F., Xue, Y. (2026) **"Techniques for Selecting Features in Medical Data,"** In *Feature Fusion for Next-Generation AI*. Springer, Cham. DOI: https://doi.org/10.1007/978-3-031-94386-7_3
-4. Yasmin, F., Hasan, M., Xue, Y. (2026) **"Developing Advanced AI Models with Fusion Data,"** In *Feature Fusion for Next-Generation AI*. Springer, Cham. DOI: https://doi.org/10.1007/978-3-031-94386-7_14
-5. Yasmin, Farhana et al. (2025) **"Evo-GrayNet: Colon Polyp Detection and Segmentation using Evolutionary Network Architecture Search,"** *IEEE Transactions on Instrumentation and Measurement*. DOI: https://doi.org/10.1109/TIM.2025.3636637
-6. Yasmin, F., Hasan, M., Sinha, A., & Mondal, S. (2025) **"AI-driven hazard assessment: a comprehensive study of machine and deep learning approaches,"** *Asian Journal of Civil Engineering*. DOI: https://doi.org/10.1007/s42107-025-01598-z
-7. Hasan, M., Yasmin, F., Yu, X., & Karim, A. (2025) **"Advances in brain imaging technologies: A comprehensive overview,"** In *Brain Networks in Neuroscience*, pp. 11.
-8. Hassan, M. M., Yasmin, F., Hasan, M., & Sharma, C. (2025) **"Neuroimaging Techniques: Innovations and Applications,"** In *Brain Networks in Neuroscience*, pp. 191.
-9. Yasmin, F., Hasan, M., Mahmud, M. M. H., & Yu, X. (2025) **"Neuroinformatics in the era of personalized neuroscience,"** In *Brain Networks in Neuroscience*, pp. 285.
-10. Hasan, M., Yasmin, F., Yu, X., & Hassan, M. M. (2025) **"Artificial Intelligence in Neuroscience,"** In *Brain Networks in Neuroscience*, pp. 67.
-11. Yasmin, F. et al. (2025) **"Graph Neural Network Architectures and Algorithms,"** In *Graph Neural Networks for Neurological Disorders*. Springer. DOI: https://doi.org/10.1007/978-3-032-04315-3_1
-12. Hasan, M. et al. (2025) **"GNNs for Neurological Disease Classification,"** In *Graph Neural Networks for Neurological Disorders*. Springer. DOI: https://doi.org/10.1007/978-3-032-04315-3_5
-13. M. Hasan et al. (2025) **"Automated Polyp Segmentation Using Evolutionary Neural Architecture Search,"**  *DICTA 2025*, Adelaide, Australia. DOI: https://doi.org/10.1109/DICTA68720.2025.11302467
-14. F. Yasmin et al. (2025) **"Optimizing Brain Tumor Segmentation Networks Through Evolutionary Neural Architecture Search,"** *DICTA 2025*, Adelaide, Australia. DOI: https://doi.org/10.1109/DICTA68720.2025.11302470
-15. Yasmin, F. et al. (2023) **"PoxNet22: A fine-tuned model for the classification of monkeypox disease using transfer learning,"** *IEEE Access*, 11, 24053–24076.
-16. Yasmin, F. et al. (2023) **"AQIPred: A hybrid model for high precision time specific forecasting of air quality index with cluster analysis,"** *Human-Centric Intelligent Systems*, 3(3), 275–295.
-17. Yasmin, F. et al. (2023) **"GastroNet: Gastrointestinal polyp and abnormal feature detection and classification with deep learning approach,"** *IEEE Access*, 11, 97605–97624.
-18. Hasan, M., Yasmin, F., & Deng, L. (2023) **"Rule Mining of Early Diabetes Symptom and Applied Supervised Machine Learning..."** *IJIRMPS*, 11(3).
+F. Yasmin, Y. Xue, M. Hasan*, A. Sinha, W. Ding and H. Liu, “EvoBTSeg: Evolutionary Architecture Search for Compact and Precise Heterogeneous Brain Tumor Segmentation,” in IEEE Transactions on Emerging Topics in Computational Intelligence, DOI: 10.1109/TETCI.2026.3692594. [IF: 6.6; SCI 2区; SJR: Q1]
+
+F. Yasmin, Y. Xue, M. Hasan, M. Gabbouj, M.K. Hasan, K. Aurangzeb, G. Muhammad “Evo-GrayNet: Colon polyp detection and segmentation using evolutionary network architecture search”, IEEE Transactions on Instrumentation and Measurement, 2025. DOI: 10.1109/TIM.2025.3636637. [IF: 5.9; SCI 2区 Top; SJR: Q1]
+
+Yasmin, F., Hassan, M. M., Hasan, M., Zaman, S., Kaushal, C., El-Shafai, W., & Soliman, N. F., PoxNet22: A fine-tuned model for the classification of monkeypox disease using transfer learning, IEEE Access, 11, 24053-24076, 2025. DOI: 10.1109/ACCESS.2023.3253868.  [IF: 3.6, SCI 3区; SJR: Q1]
+
+Yasmin, F., Hassan, M. M., Hasan, M., Zaman, S., Bairagi, A. K., El-Shafai, W., & Chun, Y. C., GastroNet: Gastrointestinal polyp and abnormal feature detection and classification with deep learning approach. IEEE Access, 11, 97605-97624, 2023. DOI: 10.1109/ACCESS.2023.3312729  [IF: 3.6, SCI 3区; SJR: Q1]
+
+Yasmin, F., Hassan, M.M., Hasan, M. et al. AQIPred: A Hybrid Model for High Precision Time Specific Forecasting of Air Quality Index with Cluster Analysis. Human-Centric Intelligent Systems, 3, 275–295, 2023. DOI: 10.1007/s44230-023-00039-x. [IF: 3.2, SCI 3区; SJR: Q1]
+
+Yasmin, F., Hasan, M.*, Sinha, A., & Mondal, S., AI-driven hazard assessment: a comprehensive study of machine and deep learning approaches. Asian Journal of Civil Engineering, 1-16, 2025. DOI: 10.1007/s42107-025-01598-z. [IF: 2.9, SJR: Q2]
+
+Hasan M, Yasmin F, Deng L, Rule Mining of Early Diabetes Symptom and Applied Supervised Machine Learning and Cross Validation Approaches based on the Most Important Features to Predict Early-stage Diabetes. IJIRMPS-International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences, 2023 Jun;11(3).
+
+# Publications Conference 
+M. Hasan, F. Yasmin, H. Liu, M. M. Hassan, R. S. Radjabovich and Y. Xue, "Automated Polyp Segmentation Using Evolutionary Neural Architecture Search," 2025 International Conference on Digital Image Computing: Techniques and Applications (DICTA), Adelaide, Australia, 2025, pp. 1-7, DOI:  10.1109/DICTA68720.2025.11302467. (Oral) 
+
+Yasmin, F., Hasan, M.,* Abdulla, S., Hassan, M.M., Radjabovich, R.S., Khader, A., Ahmed, A. and Xue, Y., “Optimizing brain tumor segmentation networks through evolutionary neural architecture search,” 2025 International Conference on Digital Image Computing: Techniques and Applications (DICTA), Adelaide, Australia, pp. 1–8. IEEE, 2025. DOI: 10.1109/DICTA68720.2025.11302470. (Poster)
+
+F. Yasmin, M. Hasan*, H. Liu, A. Ali, G. Muhammad and Y. Xue, "Resource-Aware Evolutionary Neural Architecture Search for Cardiac MRI Segmentation," 2025 28th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2025, pp. 2819-2824, DOI: 10.1109/ICCIT68739.2025.11491084. (Oral)
+
+M. Hasan, H. Liu, V. Lakkamraju, F. Yasmin, S. Maurya and A. Sinha, “Transfer Learning-Driven Deep Neural Network for Pneumonia Detection from Chest X-Rays," 2025 2nd International Conference on Artificial Intelligence for Innovations in Healthcare Industries (ICAIIHI), Raipur, India, 2025, pp. 1-6, doi: 10.1109/ICAIIHI67124.2025.11403737. (Oral)
+
+“An Evolutionary Neural Architecture Search Framework for Brain Tumor Segmentation,” in ICDPN, 2025. (Accepted). (Oral)
+
+“A Comprehensive Review of Evolutionary Algorithms and Their Applications in Optimization,” in 7th International Conference on Integrated Sciences (ICIS), 2025. (Accepted). (Oral)
+
+# Publications Chapter
+Deep Learning in Cardiovascular Health: Models, Applications, and Future Directions. In: Deep Learning in Cardiovascular Health, Information Systems Engineering and Management 77, https://doi.org/10.1007/978-3-032-12470-8_7 
+
+GNNs for Neurological Disease Classification. In: Graph Neural Networks for Neurological Disorders. Springer, Cham. https://doi.org/10.1007/978-3-032-04315-3_5
+
+Graph Neural Network Architectures and Algorithms. In: Graph Neural Networks for Neurological Disorders. Springer, Cham. https://doi.org/10.1007/978-3-032-04315-3_1 
+
+Techniques for Selecting Features in Medical Data. In: Feature Fusion for Next-Generation AI: Building Intelligent Solutions from Medical Data, 2026, pp. 27–37. https://doi.org/10.1007/978-3-031-94386-7_3 
+
+Developing Advanced AI Models with Fusion Data. In: Feature Fusion for Next-Generation AI: Building Intelligent Solutions from Medical Data, 2026, pp. 181–193. https://doi.org/10.1007/978-3-031-94386-7_14 
+
+Advances in brain imaging technologies: A comprehensive overview. In: Brain Networks in Neuroscience: Personalization Unveiled via Artificial Intelligence, 2025, pp. 11. https://doi.org/10.1201/9788770047371-2  
+
+Artificial Intelligence in Neuroscience. In: Brain Networks in Neuroscience: Personalization Unveiled Via Artificial Intelligence, pp. 67-95. https://doi.org/10.1201/9788770047371-4 
+
+Neuroinformatics in the Era of Personalized Neuroscience. In: Brain Networks in Neuroscience: Personalization Unveiled Via Artificial Intelligence, pp. 285-309. River Publishers, 2025. https://doi.org/10.1201/9788770047371-13 
+
+Neuroimaging Techniques: Innovations and Applications. In: Brain Networks in Neuroscience: Personalization Unveiled Via Artificial Intelligence, 2025, pp 191. https://doi.org/10.1201/9788770047371-9 
+Transfer Learning and Domain Adaptation for Heterogeneous Medical Data. (Accepted NIPA Publication)
+Advances in Deep Learning for Medical Imaging: Foundations, Evolution, and Impact. (Accepted - NIPA Publication) 
