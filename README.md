@@ -1,4 +1,4 @@
-# Publications Journal (* Corresponding Author)
+# List of Publications (* Corresponding Author)
 F. Yasmin, Y. Xue, M. Hasan*, Ghulam Muhammad, “EPSO-Net: A Multi-Objective Evolutionary Neural Architecture Search with PSO-Guided Mutation Fusion for Explainable Brain Tumor Segmentation”, Information Fusion, 104119, 2026. DOI: https://doi.org/10.1016/j.inffus.2025.104119. [IF: 15.5; SCI 1区 Top; SJR: Q1]
 
 F. Yasmin, Y. Xue, M. Hasan*, A. Sinha, W. Ding and H. Liu, “EvoBTSeg: Evolutionary Architecture Search for Compact and Precise Heterogeneous Brain Tumor Segmentation,” in IEEE Transactions on Emerging Topics in Computational Intelligence, DOI: https://doi.org/10.1109/TETCI.2026.3692594. [IF: 6.6; SCI 2区; SJR: Q1]
@@ -15,7 +15,6 @@ Yasmin, F., Hasan, M.*, Sinha, A., & Mondal, S., AI-driven hazard assessment: a 
 
 Hasan M, Yasmin F, Deng L, Rule Mining of Early Diabetes Symptom and Applied Supervised Machine Learning and Cross Validation Approaches based on the Most Important Features to Predict Early-stage Diabetes. IJIRMPS-International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences, 2023 Jun;11(3).
 
-# Publications Conference 
 M. Hasan, F. Yasmin, H. Liu, M. M. Hassan, R. S. Radjabovich and Y. Xue, "Automated Polyp Segmentation Using Evolutionary Neural Architecture Search," 2025 International Conference on Digital Image Computing: Techniques and Applications (DICTA), Adelaide, Australia, 2025, pp. 1-7, DOI:  https://doi.org/10.1109/DICTA68720.2025.11302467. (Oral) 
 
 Yasmin, F., Hasan, M.,* Abdulla, S., Hassan, M.M., Radjabovich, R.S., Khader, A., Ahmed, A. and Xue, Y., “Optimizing brain tumor segmentation networks through evolutionary neural architecture search,” 2025 International Conference on Digital Image Computing: Techniques and Applications (DICTA), Adelaide, Australia, pp. 1–8. IEEE, 2025. DOI: https://doi.org/10.1109/DICTA68720.2025.11302470. (Poster)
@@ -28,7 +27,6 @@ M. Hasan, H. Liu, V. Lakkamraju, F. Yasmin, S. Maurya and A. Sinha, “Transfer 
 
 “A Comprehensive Review of Evolutionary Algorithms and Their Applications in Optimization,” in 7th International Conference on Integrated Sciences (ICIS), 2025. (Accepted). (Oral)
 
-# Publications Chapter
 Deep Learning in Cardiovascular Health: Models, Applications, and Future Directions. In: Deep Learning in Cardiovascular Health, Information Systems Engineering and Management 77, https://doi.org/10.1007/978-3-032-12470-8_7 
 
 GNNs for Neurological Disease Classification. In: Graph Neural Networks for Neurological Disorders. Springer, Cham. https://doi.org/10.1007/978-3-032-04315-3_5
